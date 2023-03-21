@@ -1,0 +1,71 @@
+C:\Users\tolga\source\repos\derstekrar\derstekrar\bin\Debug\derstekrar.exe.config
+C:\Users\tolga\source\repos\derstekrar\derstekrar\bin\Debug\derstekrar.exe
+C:\Users\tolga\source\repos\derstekrar\derstekrar\bin\Debug\derstekrar.pdb
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.Form1.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.Properties.Resources.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.GenerateResource.cache
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.CoreCompileInputs.cache
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.exe
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.pdb
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmDegiskenler.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmOperatorler.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmKontrolYapilari.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmDonguler.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmDiziler.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmKolleksiyonlar.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmHataKontrolu.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmKontroller.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmLabel.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmLinkLabel.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmTextBox.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmButton.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmComboBox.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmListBox.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmTreeView.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmRadioButton.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmGroupBox.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmTimer.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSifretahmin.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmAskerAtama.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmVize.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSınavDeneme1.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmVize2.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSınavDeneme2.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSınavDeneme3.resources
+C:\Users\tolga\source\repos\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.AssemblyReference.cache
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\bin\Debug\derstekrar.exe.config
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\bin\Debug\derstekrar.exe
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\bin\Debug\derstekrar.pdb
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.AssemblyReference.cache
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.SuggestedBindingRedirects.cache
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.Form1.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmAskerAtama.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmButton.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmComboBox.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmDegiskenler.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmDiziler.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmDonguler.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmGroupBox.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmHataKontrolu.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmKolleksiyonlar.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmKontroller.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmKontrolYapilari.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmLabel.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmLinkLabel.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmListBox.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmOperatorler.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmRadioButton.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSifretahmin.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSınavDeneme1.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSınavDeneme2.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmSınavDeneme3.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmTextBox.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmTimer.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmTreeView.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmVize.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.FrmVize2.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.Properties.Resources.resources
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.GenerateResource.cache
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.csproj.CoreCompileInputs.cache
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.exe
+D:\#OKUL\ÜNİVERSİTE DOSYALARI\1.SINIF DOSYALARI\PROGRAMLAMA TEMELLERİ\C# Tüm Notlar\derstekrar_1\derstekrar\derstekrar\obj\Debug\derstekrar.pdb
